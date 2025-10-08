@@ -33,7 +33,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 | Projeto               | Preview Online                        | Tecnologias Usadas        |
 |-----------------------|-------------------------------------|--------------------------|
 | **Nome do Projeto 1** | [🔗 Ver online](https://lipehqy.github.io/Tabela-Brasileir-o/) | HTML / CSS / JS          |
-| **Nome do Projeto 2** | [🔗 Ver online]() | HTML / CSS / JS|
+| **Nome do Projeto 2** | [🔗 Ver online](https://lipehqy.github.io/Desafio-Imagens-Futebol/) | HTML / CSS / JS|
 | **Nome do Projeto 3** | [🔗 Ver online](https://seu-link.com) |HTML / CSS / JS           |
 
 
