@@ -32,9 +32,9 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 | Projeto               | Preview Online                        | Tecnologias Usadas        |
 |-----------------------|-------------------------------------|--------------------------|
-| **Nome do Projeto 1** | [🔗 Ver online](https://lipehqy.github.io/Tabela-Brasileir-o/) | HTML / CSS / JS          |
-| **Nome do Projeto 2** | [🔗 Ver online](https://lipehqy.github.io/Desafio-Imagens-Futebol/) | HTML / CSS / JS|
-| **Nome do Projeto 3** | [🔗 Ver online](https://seu-link.com) |HTML / CSS / JS           |
+| **Tabela Brasileirão** | [🔗 Ver online](https://lipehqy.github.io/Tabela-Brasileir-o/) | HTML / CSS / JS          |
+| **Desafio Imagens** | [🔗 Ver online](https://lipehqy.github.io/Desafio-Imagens-Futebol/) | HTML / CSS / JS|
+| **Perfil** | [🔗 Ver online](https://lipehqy.github.io/MeuPerfil/) |HTML / CSS / JS           |
 
 
 
@@ -53,3 +53,5 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuusuario)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/Lipehqy_)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Lipehqy)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](11-997301010)
+
