@@ -35,6 +35,7 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 | **Tabela Brasileirão** | [🔗 Ver online](https://lipehqy.github.io/Tabela-Brasileir-o/) | HTML / CSS / JS          |
 | **Desafio Imagens** | [🔗 Ver online](https://lipehqy.github.io/Desafio-Imagens-Futebol/) | HTML / CSS / JS|
 | **Perfil** | [🔗 Ver online](https://lipehqy.github.io/MeuPerfil/) |HTML / CSS / JS           |
+| **Jogo Forca** | [🔗 Ver online](https://lipehqy.github.io/Jogo-Forca/) |PYTHON           |
 
 
 
