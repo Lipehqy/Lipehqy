@@ -41,10 +41,9 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 ## 💡 Sobre Mim
 
 - 🎓 Atualmente estudo no **SESI HAGOP GUEREKMEZIAN**
-- 💻 Estou aprendendo **[tecnologias que está aprendendo]**
-- 🎯 Meu objetivo é **[coloque seu objetivo, exemplo: ser desenvolvedor Full Stack]**
-- 📚 Gosto de aprender sobre **[áreas de interesse]**
-- ✝ [Se quiser, coloque uma frase ou versículo que te inspire]
+- 💻 Estou aprendendo **LINGUAGEM DE MARCAÇÃO, HTML, JAVA, PHYTON...**
+- 🎯 Meu objetivo é **Ser um Desenvolvedor de Alto nível, em Front-Stack**
+- 📚 Gosto de aprender sobre **FRONT-END**
 
 ---
 
